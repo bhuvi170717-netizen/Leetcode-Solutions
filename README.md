@@ -51,4 +51,4 @@ Problems involving linked-list traversal and manipulation.
 
 ## Progress
 
-See [PROGRESS.md](./PROGRESS.md) for the complete problem-solving progress tracker.
+See [PROGRESS.md](./PROGRESS.md) for the complete problem-solving progress tracker. 
